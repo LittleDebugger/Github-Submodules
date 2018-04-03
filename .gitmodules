@@ -1,0 +1,12 @@
+[submodule "Scripts/littleDebugger/audioProcessing/ui/visualisers"]
+	path = Scripts/littleDebugger/audioProcessing/ui/visualisers
+	url = https://github.com/LittleDebugger/littleDebugger.audioProcessing.ui.visualisers
+[submodule "Scripts/littleDebugger/ui/common"]
+	path = Scripts/littleDebugger/ui/common
+	url = https://github.com/LittleDebugger/littleDebugger.ui.common
+[submodule "Scripts/littleDebugger/common"]
+	path = Scripts/littleDebugger/common
+	url = https://github.com/LittleDebugger/littleDebugger.common
+[submodule "Scripts/littleDebugger/audioProcessing/waveGenerators"]
+	path = Scripts/littleDebugger/audioProcessing/waveGenerators
+	url = https://github.com/LittleDebugger/littleDebugger.audioProcessing.waveGenerators
