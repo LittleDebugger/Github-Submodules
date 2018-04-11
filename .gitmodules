@@ -10,3 +10,6 @@
 [submodule "Scripts/littleDebugger/audioProcessing/waveGenerators"]
 	path = Scripts/littleDebugger/audioProcessing/waveGenerators
 	url = https://github.com/LittleDebugger/littleDebugger.audioProcessing.waveGenerators
+[submodule "Scripts/littleDebugger/audioProcessing/helpers"]
+	path = Scripts/littleDebugger/audioProcessing/helpers
+	url = https://github.com/LittleDebugger/littleDebugger.audioProcessing.helpers
